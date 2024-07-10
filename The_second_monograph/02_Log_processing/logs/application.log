@@ -1,0 +1,35 @@
+2024-07-09 13:29:48,363 - myLogHandler - DEBUG - This is a debug message
+2024-07-09 13:29:48,363 - myLogHandler - INFO - This is an info message
+2024-07-09 13:29:48,363 - myLogHandler - WARNING - This is a warning message
+2024-07-09 13:29:48,363 - myLogHandler - ERROR - This is an error message
+2024-07-09 13:29:48,363 - myLogHandler - CRITICAL - This is a critical message
+2024-07-09 13:29:48,364 - myLogHandler - ERROR - division by zero
+Traceback (most recent call last):
+  File "D:\BaiduSyncdisk_2024\BaiduSyncdisk\puzhibin\GitHub_Project\python_development_practice\The_second_monograph\02_Log_processing\01_log.py", line 16, in <module>
+    1/0
+ZeroDivisionError: division by zero
+2024-07-09 13:30:03,544 - myLogHandler - DEBUG - This is a debug message
+2024-07-09 13:30:03,544 - myLogHandler - INFO - This is an info message
+2024-07-09 13:30:03,545 - myLogHandler - WARNING - This is a warning message
+2024-07-09 13:30:03,545 - myLogHandler - ERROR - This is an error message
+2024-07-09 13:30:03,545 - myLogHandler - CRITICAL - This is a critical message
+2024-07-09 13:30:03,545 - myLogHandler - ERROR - Exception occurred
+Traceback (most recent call last):
+  File "D:\BaiduSyncdisk_2024\BaiduSyncdisk\puzhibin\GitHub_Project\python_development_practice\The_second_monograph\02_Log_processing\01_log.py", line 18, in <module>
+    1 / 0
+ZeroDivisionError: division by zero
+2024-07-09 13:30:21,894 - myLogHandler - DEBUG - This is a debug message
+2024-07-09 13:30:21,894 - myLogHandler - INFO - This is an info message
+2024-07-09 13:30:21,894 - myLogHandler - WARNING - This is a warning message
+2024-07-09 13:30:21,894 - myLogHandler - ERROR - This is an error message
+2024-07-09 13:30:21,894 - myLogHandler - CRITICAL - This is a critical message
+2024-07-09 13:31:34,946 - myLogHandler - DEBUG - This is a debug message
+2024-07-09 13:31:34,947 - myLogHandler - INFO - This is an info message
+2024-07-09 13:31:34,947 - myLogHandler - WARNING - This is a warning message
+2024-07-09 13:31:34,947 - myLogHandler - ERROR - This is an error message
+2024-07-09 13:31:34,947 - myLogHandler - CRITICAL - This is a critical message
+2024-07-09 13:31:34,947 - myLogHandler - ERROR - Exception occurred
+Traceback (most recent call last):
+  File "D:\BaiduSyncdisk_2024\BaiduSyncdisk\puzhibin\GitHub_Project\python_development_practice\The_second_monograph\02_Log_processing\01_log.py", line 18, in <module>
+    1 / 0
+ZeroDivisionError: division by zero
